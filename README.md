@@ -11,7 +11,7 @@ The workbook contains **4 visualisations** combined into a single interactive da
 | Sheet | Type | What it shows |
 |---|---|---|
 | The Bar Chart | Bar Chart | Comparison of average NAPLAN scores across school sectors or states |
-| The Map | Geographic Map | Spatial distribution of schools and performance metrics across Australia |
+| The Map | Geographic Map | Spatial distribution of schools and performance metrics across Queensland|
 | The Scatter Plot | Scatter Plot | Relationship between ICSEA (socio-educational advantage) and student outcomes |
 | The Top 10 List | Ranked List | Top 10 performing schools based on selected metric |
 
