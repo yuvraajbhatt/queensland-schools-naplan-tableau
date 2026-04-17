@@ -1,6 +1,6 @@
 # 🏫 Queensland School Performance Dashboard
 
-An interactive Tableau dashboard exploring NAPLAN performance and school profile data across Australian schools. Built as part of a data visualisation unit to uncover patterns in student literacy and numeracy outcomes.
+An interactive Tableau dashboard exploring NAPLAN performance and school profile data across queensland schools. Built as part of a data visualisation unit to uncover patterns in student literacy and numeracy outcomes.
 
 ---
 
